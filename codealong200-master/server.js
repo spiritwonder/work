@@ -6,25 +6,25 @@ app.use(express.static(__dirname + '/public'));
 
 const students = [
     {
-        "name": "Samuel Amoah",
-        "dob": "10/10/2000",
+        "name": "Spirit Wonder",
+        "dob": "1/12/1998",
         "program": "BSC ICT",
         "level": "400",
-        "image": "/images/sam.jpeg"
+        "image": "/images/1.jpeg"
     },
     {
-        "name": "Yvette Klu",
-        "dob": "10/10/2000",
+        "name": "Anaba Malcom",
+        "dob": "10/1/2000",
         "program": "BSC CS",
         "level": "200",
-        "image": "/images/yvette.jpeg"
+        "image": "/images/2.jpeg"
     },
     {
-        "name": "Dominic Something",
+        "name": "Caleb Asare",
         "dob": "10/10/2000",
         "program": "BSC MIS",
         "level": "300",
-        "image": "/images/dominic.jpeg"
+        "image": "/images/3.jpeg"
     }
 ]
 
